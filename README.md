@@ -84,4 +84,6 @@ git push origin main
 ```
 
 Linked In Link: [https://www.linkedin.com/posts/shivprasad-suryakar-a90695292_automating-cloud-deployments-github-actions-ugcPost-7496410778590212097-Aj4U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbvqMwBWhQXtNsVN8Ai7YqQInuNS1o0Tcw]
+
+[https://www.linkedin.com/feed/update/urn:li:ugcPost:7496410778590212097/]
 The GitHub Actions workflow will automatically detect the push to the `main` branch and deploy your changes to S3.
